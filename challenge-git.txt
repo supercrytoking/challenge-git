@@ -1,0 +1,17 @@
+
+/*Switched to a new branch 'add-echo'
+Branch 'add-echo' set up to track remote branch 'add-echo' from 'origin'.*/
+git checkout add-echo
+
+
+git rebase add-echo master
+
+
+/*Switched to a new branch 'add-reverse'
+Branch 'add-reverse' set up to track remote branch 'add-reverse' from 'origin'.*/
+git checkout add-reverse
+
+
+git rebase add-reverse master
+
+Successful!
